@@ -1,0 +1,11 @@
+.numstyle {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    font-size: 3em;
+    background-color: lightblue;
+    color: red;
+    text-align: center;
+    border: 3px groove hotpink;
+
+}
